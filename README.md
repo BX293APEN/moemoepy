@@ -1,2 +1,2 @@
 # moemoepy
- API Wrapper for http://api.moemoe.tokyo/
+ API Wrapper for https://anime-api.deno.dev/
