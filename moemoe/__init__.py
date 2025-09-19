@@ -1,1 +1,1 @@
-from .anime import AnimeAPI, Anime, Cour
+from .anime import AnimeAPI, Anime
